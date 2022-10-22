@@ -1,0 +1,51 @@
+body {
+    background-color:blanchedalmond;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.top{
+    text-align:center;
+    color:black;
+    font-weight: bold;
+    font-size:40px;
+    text-decoration-line: underline;
+}
+
+.rec {
+    text-align:center;
+    color:brown;
+    font-weight:600;
+   
+    font-size: 30px;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: auto;
+}
+
+
+
+p, .bebetter, ol {
+    color:black;
+    margin-left: 500px;
+    margin-right: auto;
+    display: block;
+}
+
+.fixed {
+    position: sticky;
+    bottom: 16px;
+    left: 8px;
+}
+
+#trademark{
+    margin-left: 10px;
+    margin-right: auto;
+    color: gray;
+}
